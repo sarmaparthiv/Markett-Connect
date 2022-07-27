@@ -11,8 +11,8 @@ Book/Order your required services  by clicking on the seller’s profile.
 Find out the reviews,prices ,availability  and much more.
 We will make sure that the seller gets the justified price according to their work.
 
-# MORE DETAILS 
- [Presentation link](https://docs.google.com/presentation/d/1yohMpn9rY-CIe6uI9gyMXN0IpUsvZGPKPcZ507xbFoM/edit?usp=sharing)
+# TEAM MEMBERS
+
  
  # USER INTERFACE OF THE SITE
  
@@ -30,6 +30,10 @@ We will make sure that the seller gets the justified price according to their wo
 ![image](https://user-images.githubusercontent.com/78607866/181270942-3e94d9f7-4eb0-4278-945e-9c9670966eeb.png)
                                             
                                             LOGIN PAGE FOR NEW USERS
+                                            
+# MORE DETAILS 
+ [Presentation link](https://docs.google.com/presentation/d/1yohMpn9rY-CIe6uI9gyMXN0IpUsvZGPKPcZ507xbFoM/edit?usp=sharing)
+                                             
  
 
 
