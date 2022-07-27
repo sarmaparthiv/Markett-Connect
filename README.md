@@ -11,7 +11,7 @@ Book/Order your required services  by clicking on the seller’s profile.
 Find out the reviews,prices ,availability  and much more.
 We will make sure that the seller gets the justified price according to their work.
 
-# TEAM MEMBERS
+
 
  
  # USER INTERFACE OF THE SITE
